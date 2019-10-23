@@ -1,7 +1,5 @@
 # FST Engine
 
----
-
 - Architecture Overview
 - GraphQL
   - Basic Concept
